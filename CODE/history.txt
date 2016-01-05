@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+-->Wait !
+ Server connected on 192.168.1.2 and port 7001
+-->Server at 192.168.1.2 and port 7001 disconnected
+-->Wait !
+ Server connected on 192.168.1.2 and port 7001
+-->Wait....... !
+ File sent successfully !
+-->Wait....... !
+ File sent successfully !
+-->Wait....... !
+ File sent successfully !
+-->Server at 192.168.1.2 and port 7001 disconnected
+-->Wait !
+ Wrong username or password ! Can not connect server.
+
+-->Wait !
+ Server connected on 127.0.0.1 and port 7000
+
+-->Wait !
+ Server connected on 192.168.1.2 and port 7002
+
+-->Wait !
+ Server connected on 192.168.1.2 and port 7002
+-->Server at 192.168.1.2 and port 7002 disconnected
+-->Wait !
+ Server connected on 192.168.1.2 and port 7002
+-->Server at 192.168.1.2 and port 7002 disconnected
+-->Wait !
+ Server connected on 192.168.1.2 and port 7002
+
+-->Wait !
+ Server connected on 192.168.1.2 and port 7002
+-->Wait....... !
+ File sent successfully !
+

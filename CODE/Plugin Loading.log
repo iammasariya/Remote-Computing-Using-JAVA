@@ -1,0 +1,113 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\en_US\
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Scanning C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\en_US and sub-directories
+
+Loading from root path: C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Scanning C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common and sub-directories
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterAiff.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterASND.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterAVI.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterBarsAndTone.prm
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterDirectShow.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterDPX.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterFLV.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterJPEG.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterMp3.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterMPEG.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterMultiStill.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterP2.prm
+There was an error loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterP2.prm from the plugin cache
+The registry key will be deleted and the plugin will be loaded from disk.
+Loading from disk...
+The library could not be loaded.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterPhotoshopProxy.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterPNG.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterTarga.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterTiff.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterWave.prm
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterWindowsMedia.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\AsioWdm.dll
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\DVControl.dll
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\AEFilterCrop.aex
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\AEFilterGaussianBlur.aex
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\Motion.aex
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CS5\Plug-ins\Common\ImporterQuickTime.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
